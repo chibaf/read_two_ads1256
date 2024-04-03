@@ -4,7 +4,7 @@ import time
 import matplotlib.pyplot as plt
 import serial
 
-from read_m5_class import m5logger
+from read_m52_class import m5logger2
 from ads1256b_class import read_ads1256
 
 today = date.today()
@@ -21,7 +21,7 @@ ser1 = serial.Serial("/dev/ttyACM1",19200)
 ser2 = serial.Serial("/dev/ttyUSB0",19200)
 ads1256a=read_ads1256()
 ads1256b=read_ads1256()
-sport=m5logger()
+sport=m5logger2()
 
 data0=[0]*16
 data=[data0]*10
