@@ -6,7 +6,7 @@ ADS1256 1 - READ_ADS1256_01.ino
 
 ADS1256 2 - READ_ADS1256_01.ino
 
-## ADS Board - Arduino UNO Board
+## ADS Board - Arduino UNO R3 Board
 
 5V - 5V (Vcc)
 
