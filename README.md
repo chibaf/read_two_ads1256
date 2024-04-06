@@ -8,7 +8,7 @@ ADS1256 2 - READ_ADS1256_01.ino
 
 ## ADS1256 Board - Arduino UNO R3 Board
 
-5V - 5V (Vcc)
+5V (Vcc) - 5V 
 
 GND - GND
 
