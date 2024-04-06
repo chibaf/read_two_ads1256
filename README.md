@@ -23,3 +23,5 @@ DRDY - pin 9
 CS - pin 10
 
 POWN - 5V
+
+reading Tc logger & two ADS1256 - plot_ads1256_loggerb.py 
